@@ -1,16 +1,16 @@
-# sigmatech
+## 🖼️ Hình ảnh giao diện cùng các chức năng chính
 
-A new Flutter project.
+📌 **Đăng ký, đăng nhập:**  
+![image](https://github.com/user-attachments/assets/6b87aede-b37f-4446-9d43-a1727bc7cc13)
+![image](https://github.com/user-attachments/assets/0fe84ef1-fbc5-465a-ba83-6692dc39a653)
+![image](https://github.com/user-attachments/assets/e17c5455-d797-440c-a7b0-9d262e041ba0)
 
-## Getting Started
+📌 **Trang chủ:**  
+![image](https://github.com/user-attachments/assets/6c115c66-e9cf-41d1-b878-ae3d5252b304)
 
-This project is a starting point for a Flutter application.
+📌 **Tìm kiếm sản phẩm:**  
+![image](https://github.com/user-attachments/assets/2ec36393-23b2-46f4-9e17-cce845de4b4e)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
